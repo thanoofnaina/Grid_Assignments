@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+header{
+    background-color: rgba(0, 0, 255, 0.672);
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+
+}
+#parent {
+    height: 80vh;
+    display: flex;
+    
+}
+.content {
+    background-color: green;
+    width: 70vw;
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+
+}
+.aside{
+    background-color: orange;
+    width: 30vw;
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+
+}
+footer{
+    background-color: aqua;
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+
+    
+}
